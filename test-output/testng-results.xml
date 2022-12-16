@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-27T08:59:45 MST" name="Default suite" finished-at="2022-10-27T08:59:52 MST" duration-ms="6459">
+  <suite started-at="2022-12-15T19:59:14 MST" name="Default suite" finished-at="2022-12-15T19:59:19 MST" duration-ms="5472">
     <groups>
     </groups>
-    <test started-at="2022-10-27T08:59:45 MST" name="Default test" finished-at="2022-10-27T08:59:52 MST" duration-ms="6459">
+    <test started-at="2022-12-15T19:59:14 MST" name="Default test" finished-at="2022-12-15T19:59:19 MST" duration-ms="5472">
       <class name="testCases.TC001_LoginLogOut">
-        <test-method is-config="true" signature="setData()[pri:0, instance:testCases.TC001_LoginLogOut@479d31f3]" started-at="2022-10-27T08:59:45 MST" name="setData" finished-at="2022-10-27T08:59:45 MST" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="setData()[pri:0, instance:testCases.TC001_LoginLogOut@7c729a55]" started-at="2022-12-15T19:59:14 MST" name="setData" finished-at="2022-12-15T19:59:14 MST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setData -->
-        <test-method is-config="true" signature="login()[pri:0, instance:testCases.TC001_LoginLogOut@479d31f3]" started-at="2022-10-27T08:59:46 MST" name="login" finished-at="2022-10-27T08:59:50 MST" duration-ms="4352" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:testCases.TC001_LoginLogOut@7c729a55]" started-at="2022-12-15T19:59:14 MST" name="login" finished-at="2022-12-15T19:59:18 MST" duration-ms="4284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="loginLogOut(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginLogOut@479d31f3]" started-at="2022-10-27T08:59:50 MST" name="loginLogOut" data-provider="getData" finished-at="2022-10-27T08:59:51 MST" duration-ms="1308" status="PASS">
+        <test-method signature="loginLogOut(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_LoginLogOut@7c729a55]" started-at="2022-12-15T19:59:18 MST" name="loginLogOut" data-provider="getData" finished-at="2022-12-15T19:59:19 MST" duration-ms="656" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -31,7 +31,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginLogOut -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.TC001_LoginLogOut@479d31f3]" started-at="2022-10-27T08:59:51 MST" name="closeBrowser" finished-at="2022-10-27T08:59:52 MST" duration-ms="219" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.TC001_LoginLogOut@7c729a55]" started-at="2022-12-15T19:59:19 MST" name="closeBrowser" finished-at="2022-12-15T19:59:19 MST" duration-ms="172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
